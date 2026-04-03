@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Danielkingsley
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
-- 📫 How to reach me ...
+- 👋 Hi, I’m Daniel Kingsly
+- 👀 QA Auomation Engineer
+- 🌱 Python, Pytest, Selenium, Playwright, Appium, Alluren BASH
 
 <!---
 Danielkingsley/Danielkingsley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
